@@ -2,7 +2,7 @@
   "name": "portf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-smidazai.github.io/portfolio",
+  "homepage": "https://smidazai.github.io/portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
