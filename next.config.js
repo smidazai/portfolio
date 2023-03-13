@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'export',
+  pagesDir: 'app',
   experimental: {
     appDir: true,
   },
