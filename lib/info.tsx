@@ -12,7 +12,7 @@ export const about = () => {
 export const bio = () => {
   return (
     <>
-    <b>Thème de recherche : </b><p>Tests de comparaison de deux populations, Tests paramétriques et non paramétriques, données fonctionnelles, statistique de scan, statistique spatiale, détection d'agrgégats, théorèmes asymptotiques, données multivariées. 
+    <b>Thème de recherche : </b><p>Tests de comparaison de deux populations, Tests paramétriques et non paramétriques, données fonctionnelles, statistique de scan, statistique spatiale, détection d'agrégats, théorèmes asymptotiques, données multivariées. 
     </p>
     </>
   );
