@@ -70,7 +70,7 @@ export default function RecherchePage() {
       </div>
     </section>
     <section>
-      <h1 className="font-bold text-3xl font-serif">Conférances et Séminaires</h1>
+      <h1 className="font-bold text-3xl font-serif">Conférences et Séminaires</h1>
       <div className="my-5 relative m-8">
         <div className="border-r-2 border-gray-500 absolute h-full top-0" style={{ left: "15px" }}></div>
         <ul className="list-none m-0 p-0">
