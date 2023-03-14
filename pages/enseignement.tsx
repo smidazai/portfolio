@@ -21,12 +21,12 @@ export default function EnseignementPage() {
                             </div>
                             <div className="text-base font-medium leading-6">
                                 <ul className="list-outside list-disc">
-                                    <li className="text-gray-500 dark:text-gray-4">Introduction to big data (Machine learning). Master 1 : Statistics, Econometrics, Data Science for Social Sciences. CM, TP. Langue du cours : Anglais. Organisation et correction d’examens. (Co-Responsable de l’UE avec Anne Ruiz-Gazen). </li>
-                                    <li className="text-gray-500 dark:text-gray-4">Statistiques inférentielles. L2 Eco et gestion. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Apprentissage des techniques et outils mathématiques. L1 Eco et Miashs.TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Maths pour l’économie et la gestion 1. L1 Eco et gestion. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Maths pour l’économie et la gestion 2. L1 Eco et gestion. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Mathématiques 1. L1 Eco et droit. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Introduction to big data (Machine learning). (M1): Statistics, Econometrics, Data Science for Social Sciences. CM, TP. Langue du cours : Anglais. </li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistiques inférentielles. (L2): Economie et gestion. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Apprentissage des techniques et outils mathématiques. (L1): Economie et Miashs.TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Maths pour l’économie et la gestion 1. (L1): Economie et gestion. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Maths pour l’économie et la gestion 2. (L1): Economie et gestion. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Mathématiques 1. (L1): Economie et droit. TD.</li>
                                 </ul>    
                             </div>
                         </div>
@@ -51,13 +51,13 @@ export default function EnseignementPage() {
                             </div>
                             <div className="text-base font-medium leading-6">
                                 <ul className="list-outside list-disc">
-                                    <li className="text-gray-500 dark:text-gray-4">Statistiques inférentielles 1. Master 1 : Epidémiologie, Données de Santé, Biostatistiques. CM, TD et TP. Organisation et correction d’examens. (Responsable de l’UE).</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Statistiques 2. 5ème année orthophonie.CM, TP. Organisation et correction d’examens. (Responsable de l’UE).</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Statistiques 1. 2ème année orthophonie. CM. Organisation et correction d’examens. (Responsable de l’UE).</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Statistiques.PASS, Sciences - SHS. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Bureautique.1ère année orthophonie.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Bureautique-c2i.2ème année DFG Sciences médicales.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Formation informatique.  2ème année Maïeutiques.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistiques inférentielles 1. (M1): Epidémiologie, Données de Santé, Biostatistiques. CM, TD et TP. (Responsable de l’UE).</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistiques 2. (5ème année): Orthophonie. CM, TP. (Responsable de l’UE).</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistiques 1. (2ème année): Orthophonie. CM. (Responsable de l’UE).</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistiques. (PASS). TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Bureautique. (1ère année): Orthophonie.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Bureautique-c2i. (2ème année): DFG Sciences médicales.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Formation informatique. (2ème année): Maïeutiques.</li>
                                 </ul>    
                             </div>
                         </div>
@@ -82,8 +82,8 @@ export default function EnseignementPage() {
                             </div>
                             <div className="text-base font-medium leading-6">
                                 <ul className="list-outside list-disc">
-                                    <li className="text-gray-500 dark:text-gray-4">Statistique descriptive et Probabilités. L2 Informatique. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Biostatistique 1. L2 Sciences de la vie et Parcours des Écoles d'Ingénieurs Polytech. TD. </li>
+                                    <li className="text-gray-500 dark:text-gray-4">Statistique descriptive et Probabilités. (L2): Informatique. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Biostatistique 1. (L2): Parcours des Écoles d'Ingénieurs Polytech (PEIP) et Sciences de la vie. TD. </li>
                                 </ul>    
                             </div>
                         </div>
@@ -108,9 +108,9 @@ export default function EnseignementPage() {
                             </div>
                             <div className="text-base font-medium leading-6">
                                 <ul className="list-outside list-disc">
-                                    <li className="text-gray-500 dark:text-gray-4">Biostatistique 1. L2 Sciences de la vie. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Analyse. Parcours des Écoles d'Ingénieurs Polytech. TD.</li>
-                                    <li className="text-gray-500 dark:text-gray-4">Probabilités et Statistique élémentaires. L2 Mathématiques. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Biostatistique 1. (L2): Sciences de la vie. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Analyse. (2ème année): Parcours des Écoles d'Ingénieurs Polytech. TD.</li>
+                                    <li className="text-gray-500 dark:text-gray-4">Probabilités et Statistique élémentaires. (L2): Mathématiques. TD.</li>
                                 </ul>    
                             </div>
                         </div>
